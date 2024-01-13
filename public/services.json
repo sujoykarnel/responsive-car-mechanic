@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "CAR SERVICING",
+        "price": "100",
+        "discription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti sed, laborum fugiat molestiae dolores amet velit nobis enim neque, repellat possimus corporis atque ipsa minima praesentium eaque quasi.",
+        "img": "https://i.ibb.co/zZCFcJT/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "ENGINE OVERHAULING",
+        "price": "200",
+        "discription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti sed, laborum fugiat molestiae dolores amet velit nobis enim neque, repellat possimus corporis atque ipsa minima praesentium eaque quasi.",
+        "img": "https://i.ibb.co/0BZX5MD/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "ENGINE CLEANNING",
+        "price": "300",
+        "discription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti sed, laborum fugiat molestiae dolores amet velit nobis enim neque, repellat possimus corporis atque ipsa minima praesentium eaque quasi.",
+        "img": "https://i.ibb.co/4g7dbGB/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "SPEEDOMETER SERVICING",
+        "price": "400",
+        "discription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti sed, laborum fugiat molestiae dolores amet velit nobis enim neque, repellat possimus corporis atque ipsa minima praesentium eaque quasi.",
+        "img": "https://i.ibb.co/G94X9t8/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "WHILEE SERVICING",
+        "price": "500",
+        "discription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti sed, laborum fugiat molestiae dolores amet velit nobis enim neque, repellat possimus corporis atque ipsa minima praesentium eaque quasi.",
+        "img": "https://i.ibb.co/S6Hdg37/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "ENGINE OIL CHENGING",
+        "price": "600",
+        "discription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti sed, laborum fugiat molestiae dolores amet velit nobis enim neque, repellat possimus corporis atque ipsa minima praesentium eaque quasi.",
+        "img": "https://i.ibb.co/R6mkcdP/6.jpg"
+    }
+]
